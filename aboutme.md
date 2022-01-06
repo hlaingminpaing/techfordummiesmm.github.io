@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello everybody. We (TechforDummies) is a free online learning platform and you can learn about cloud technologies and linux opensoure porject base labs. We will provide real world lab base series for cloud certification, system engineer and DevOps, etc. If you have any other suggestions, please feel free to contact us. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
